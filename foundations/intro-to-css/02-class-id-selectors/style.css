@@ -1,0 +1,20 @@
+.highlighted {
+    background-color: #f3bfbf;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.highlighted.heading-sm {
+    font-size: 24px;
+}
+
+#funky-heading {
+    background-color: #3cfa55;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#elegant-heading {
+    color: #2149ff;
+    font-size: 30px;
+}
